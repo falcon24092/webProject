@@ -2,7 +2,7 @@
 
 .login-page {
   width: 720px;
-  padding: 13% 0 0;
+  padding: 10% 0 0;
   margin: auto;
 }
 .form {
@@ -30,7 +30,7 @@
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   outline: 0;
-  background: #4CAF50;
+  background: #22B9F9;
   width: 100%;
   border: 0;
   padding: 15px;
@@ -41,7 +41,7 @@
   cursor: pointer;
 }
 .form button:hover,.form button:active,.form button:focus {
-  background: #43A047;
+  background: #2081F9;
 }
 .form .message {
   margin: 18px 0 0;
@@ -50,11 +50,11 @@
 }
 .form .topic {
   margin: 10px 0 0;
-  color: #4CAF50;
+  color: #22B9F9;
   font-size: 30px;
 }
 .form .message a {
-  color: #4CAF50;
+  color: #22B9F9;
   font-size: 18px;
   text-decoration: none;
 }
